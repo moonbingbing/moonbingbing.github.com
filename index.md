@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 明说
+tagline: 关注IT&理财
 ---
 {% include JB/setup %}
 
